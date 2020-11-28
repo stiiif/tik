@@ -1,0 +1,9 @@
+{
+    "info": {
+        "url_png_icon_64x64": "URL max 40kb",
+        "url_png_logo": "URL max 50kb",
+        "social": {"telegram_handle": "ADAPTpool"},
+        "about": {"me": "Adapting for a more fair, secure and decentralized world","server": "Professional Cloud Servers",},
+    },
+    "my-pool-ids": {"0": "af6254651bde1e60fb9160d5f321010de5b2fa794e9b1a1163e592e0"},
+}
