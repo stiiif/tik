@@ -1,9 +1,24 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://tinyurl.com/yxbc5npc",
-        "url_png_logo": "URL max 50kb",
-        "social": {"telegram_handle": "ADAPTpool"},
-        "about": {"me": "Always adapting for a more fair, secure and decentralized world","server": "Professional Cloud Servers"},
+        "url_png_icon_64x64": "http://acidpools.com/wp-content/uploads/2020/12/smiley64-64.png",
+        "url_png_logo": "http://acidpools.com/wp-content/uploads/2020/12/smiley300-300.png",
+        "location": "France",
+        "social": {
+            "twitter_handle": "AcidStakePool",
+            "telegram_handle": "ACIDpools",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "about": {
+            "me": "I am a tech enthusiast with unconditional love for Cardano",
+            "server": "Cloud and Bare metal servers",
+            "company": ""
+        }
     },
-    "my-pool-ids": {"0": "af6254651bde1e60fb9160d5f321010de5b2fa794e9b1a1163e592e0"},
+    "my-pool-ids": {
+        "0": "pool14a39gegmmc0xp7u3vr2lxggpphjm97nef6d35ytrukfwqvavj8j"
+    }
 }
